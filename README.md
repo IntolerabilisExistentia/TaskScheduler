@@ -1,4 +1,4 @@
-# TaskSheduler
+# TaskScheduler
 
 Шедулер задач
 
